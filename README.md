@@ -1,6 +1,6 @@
 # Thame Flood Early Warning System — website
 
-This folder is ready to push straight to a GitHub repo and publish with GitHub Pages. It is built so you can make future text edits yourself, directly on github.com, with no coding and no build step.
+This folder is ready to push straight to a GitHub repo and publish with GitHub Pages. It is built so we can make future text edits yourself, directly on github.com, with no coding and no build step.
 
 ## Files
 
